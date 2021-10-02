@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexander-drach/gulp-start#readme",
   "devDependencies": {
+    "browser-sync": "^2.27.5",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.0.0",
